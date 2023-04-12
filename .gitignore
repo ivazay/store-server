@@ -1,2 +1,6 @@
 .idea
+media
+.env
+products/fixtures
+products/migrations
 db.sqlite3
